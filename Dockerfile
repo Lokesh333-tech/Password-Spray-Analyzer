@@ -15,7 +15,7 @@ ENV PATH="/opt/venv/bin:$PATH"
 
 # Install Node dependencies and build production frontend
 COPY package.json ./
-RUN npm install --omit=dev=false
+RUN npm install
 
 COPY . .
 RUN npm run build
