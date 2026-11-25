@@ -1,0 +1,262 @@
+timestamp,username,source_ip,status,user_agent,application
+2026-11-24T10:41:00Z,sam.takahashi,10.0.12.14,FAILED,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T14:23:04Z,sam.takahashi,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T09:16:32Z,carol.chen,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T20:53:34Z,bob.vance,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T11:59:41Z,quinn.harper,192.0.2.15,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T07:35:13Z,henry.lin,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T10:38:18Z,tara.singh,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T15:48:18Z,wendy.zhao,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T16:34:43Z,henry.lin,192.0.2.28,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T08:36:23Z,frank.castillo,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T17:07:45Z,rachel.adams,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T13:41:30Z,jack.morgan,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T17:08:40Z,sam.takahashi,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T16:20:32Z,david.kim,192.0.2.15,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T18:45:20Z,bob.vance,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T13:42:05Z,henry.lin,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T07:35:52Z,henry.lin,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T07:51:38Z,noah.klein,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T11:23:59Z,carol.chen,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T13:40:16Z,henry.lin,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T13:46:35Z,quinn.harper,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T13:56:27Z,xavier.dubois,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T09:14:30Z,henry.lin,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T13:43:00Z,maya.santos,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T10:53:13Z,noah.klein,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T07:12:32Z,henry.lin,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T15:29:00Z,quinn.harper,10.0.15.31,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T15:37:13Z,olivia.berg,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T16:26:51Z,uma.krishnan,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T09:17:36Z,grace.okafor,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T13:47:05Z,rachel.adams,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T13:41:35Z,grace.okafor,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T11:53:21Z,rachel.adams,192.0.2.15,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T20:45:25Z,bob.vance,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T09:35:43Z,henry.lin,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T13:52:40Z,iris.patel,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T12:12:27Z,carol.chen,10.0.19.102,SUCCESS,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T11:22:48Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T16:18:16Z,alice.mercer,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T16:43:06Z,uma.krishnan,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T09:13:45Z,frank.castillo,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T09:12:24Z,bob.vance,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T13:15:47Z,rachel.adams,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T14:32:48Z,frank.castillo,10.0.12.22,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T11:28:42Z,david.kim,10.0.14.8,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T09:36:59Z,rachel.adams,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T07:27:46Z,peter.nguyen,10.0.12.22,FAILED,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T11:23:12Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T09:15:09Z,jack.morgan,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T11:22:24Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T13:42:30Z,liam.oconnor,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T17:32:47Z,rachel.adams,10.0.12.22,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T13:34:10Z,wendy.zhao,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T17:24:43Z,maya.santos,10.0.14.8,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T09:17:52Z,henry.lin,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T09:13:04Z,david.kim,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T10:55:42Z,maya.santos,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T15:49:43Z,maya.santos,192.0.2.15,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T21:28:25Z,sam.takahashi,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T12:29:17Z,olivia.berg,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T12:17:43Z,xavier.dubois,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T11:13:42Z,sam.takahashi,10.0.19.102,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T09:16:16Z,bob.vance,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T09:44:11Z,wendy.zhao,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T12:53:07Z,sam.takahashi,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T14:19:14Z,iris.patel,192.0.2.15,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T18:17:57Z,jack.morgan,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T13:44:00Z,olivia.berg,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T09:15:58Z,tara.singh,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T19:39:55Z,david.kim,10.0.15.31,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T09:14:48Z,iris.patel,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T18:45:26Z,frank.castillo,10.0.15.31,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T20:10:58Z,rachel.adams,192.0.2.28,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T17:45:38Z,peter.nguyen,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T08:23:27Z,frank.castillo,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T21:05:58Z,uma.krishnan,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T14:58:58Z,olivia.berg,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T16:06:44Z,uma.krishnan,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T09:12:42Z,carol.chen,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T13:29:07Z,olivia.berg,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T09:16:13Z,maya.santos,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T09:47:12Z,olivia.berg,10.0.19.102,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T07:45:55Z,alice.mercer,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T20:32:21Z,victor.rossi,192.0.2.15,FAILED,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T09:16:57Z,olivia.berg,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T14:43:30Z,xavier.dubois,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T09:12:05Z,alice.mercer,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T07:50:43Z,henry.lin,192.0.2.28,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T21:48:50Z,olivia.berg,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T13:04:56Z,uma.krishnan,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T19:47:55Z,rachel.adams,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T09:15:31Z,karen.cho,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T11:12:36Z,tara.singh,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T20:21:58Z,david.kim,192.0.2.28,FAILED,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T10:04:16Z,maya.santos,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T11:23:00Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T19:35:03Z,jack.morgan,10.0.19.102,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T18:44:55Z,karen.cho,10.0.12.22,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T06:58:32Z,carol.chen,10.0.14.8,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T19:35:36Z,bob.vance,10.0.19.102,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T15:53:23Z,xavier.dubois,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T09:18:56Z,liam.oconnor,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T15:03:26Z,sam.takahashi,10.0.14.8,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T11:21:48Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T20:17:37Z,sam.takahashi,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T18:31:33Z,uma.krishnan,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T09:08:03Z,iris.patel,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T17:09:35Z,tara.singh,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T20:19:01Z,tara.singh,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T07:16:30Z,iris.patel,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T18:06:10Z,jack.morgan,10.0.12.14,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T15:03:32Z,iris.patel,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T17:26:17Z,wendy.zhao,10.0.12.22,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T17:59:55Z,olivia.berg,10.0.12.22,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T13:44:35Z,maya.santos,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T11:21:36Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T09:14:08Z,grace.okafor,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T14:08:00Z,liam.oconnor,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T17:38:56Z,rachel.adams,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T07:15:34Z,grace.okafor,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T11:48:59Z,quinn.harper,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T13:46:05Z,peter.nguyen,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T19:01:13Z,uma.krishnan,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T13:43:30Z,noah.klein,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T08:38:12Z,jack.morgan,10.0.15.31,FAILED,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T13:43:35Z,karen.cho,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T20:14:05Z,peter.nguyen,10.0.12.14,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T11:44:01Z,peter.nguyen,10.0.19.102,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T17:06:50Z,quinn.harper,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T20:14:30Z,peter.nguyen,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T21:26:49Z,sam.takahashi,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T10:45:56Z,olivia.berg,10.0.15.31,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T16:35:47Z,elena.rostova,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T20:12:57Z,jack.morgan,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T13:44:30Z,peter.nguyen,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T09:18:08Z,iris.patel,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T11:22:36Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T17:11:25Z,victor.rossi,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T19:31:01Z,carol.chen,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T07:13:03Z,frank.castillo,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T13:45:35Z,olivia.berg,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T06:25:02Z,henry.lin,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T16:50:52Z,peter.nguyen,10.0.12.22,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T19:16:52Z,frank.castillo,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T10:38:21Z,karen.cho,10.0.12.22,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T18:58:03Z,grace.okafor,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T09:17:20Z,frank.castillo,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T21:37:39Z,henry.lin,10.0.12.22,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T11:22:12Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T09:18:02Z,rachel.adams,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T09:13:24Z,elena.rostova,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T11:00:27Z,frank.castillo,192.0.2.28,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T16:10:29Z,quinn.harper,10.0.18.45,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T11:20:36Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T10:05:11Z,rachel.adams,10.0.12.22,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T09:15:55Z,liam.oconnor,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T14:20:35Z,henry.lin,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T07:48:27Z,liam.oconnor,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T19:14:33Z,maya.santos,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T17:05:00Z,olivia.berg,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T15:25:18Z,uma.krishnan,10.0.19.102,SUCCESS,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T10:40:02Z,bob.vance,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T12:49:15Z,elena.rostova,10.0.12.14,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T19:03:43Z,iris.patel,10.0.12.14,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T08:47:29Z,maya.santos,10.0.18.45,FAILED,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T09:52:47Z,carol.chen,192.0.2.15,FAILED,OpenVPN-Client/3.4.2,SSO-Portal
+2026-11-24T13:20:08Z,bob.vance,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T13:15:07Z,rachel.adams,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T10:43:46Z,sam.takahashi,10.0.18.45,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T13:28:57Z,quinn.harper,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T11:25:47Z,peter.nguyen,192.0.2.15,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T13:28:05Z,tara.singh,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T17:12:20Z,wendy.zhao,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T18:40:34Z,wendy.zhao,10.0.14.8,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T07:27:15Z,david.kim,192.0.2.15,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T12:10:14Z,elena.rostova,192.0.2.28,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T18:04:40Z,bob.vance,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T14:51:41Z,olivia.berg,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T19:36:16Z,karen.cho,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T13:42:35Z,iris.patel,203.0.113.45,SUCCESS,curl/8.4.0,VPN-Gateway
+2026-11-24T10:34:04Z,grace.okafor,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T06:45:45Z,noah.klein,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T09:16:36Z,noah.klein,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T17:54:27Z,karen.cho,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T16:41:15Z,iris.patel,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T09:18:24Z,jack.morgan,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T11:20:12Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T17:05:55Z,peter.nguyen,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T09:45:28Z,sam.takahashi,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T09:17:41Z,quinn.harper,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T19:46:02Z,xavier.dubois,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T13:45:05Z,noah.klein,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T11:46:01Z,sam.takahashi,10.0.15.31,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T13:09:42Z,sam.takahashi,10.0.19.102,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T06:28:07Z,iris.patel,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T11:31:07Z,maya.santos,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T20:44:46Z,bob.vance,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T09:17:04Z,elena.rostova,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T13:45:30Z,rachel.adams,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T16:54:07Z,alice.mercer,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T13:44:05Z,liam.oconnor,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T11:23:24Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T07:35:59Z,henry.lin,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T09:16:00Z,alice.mercer,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T17:50:09Z,wendy.zhao,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T06:25:11Z,xavier.dubois,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T11:21:00Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T17:54:15Z,sam.takahashi,192.0.2.15,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T06:45:00Z,karen.cho,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T21:01:44Z,peter.nguyen,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T09:17:17Z,peter.nguyen,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T08:36:40Z,frank.castillo,192.0.2.15,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T14:37:31Z,iris.patel,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T14:30:59Z,wendy.zhao,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T11:20:24Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T09:14:06Z,david.kim,192.0.2.15,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T06:24:42Z,grace.okafor,192.0.2.15,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T15:15:29Z,noah.klein,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T09:16:48Z,david.kim,198.51.100.77,SUCCESS,python-requests/2.31.0,SSO-Portal
+2026-11-24T17:41:20Z,bob.vance,10.0.15.31,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T07:34:24Z,david.kim,10.0.19.102,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T14:27:02Z,elena.rostova,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T21:22:18Z,victor.rossi,10.0.14.8,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T16:54:27Z,wendy.zhao,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T18:39:28Z,rachel.adams,192.0.2.15,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T16:51:12Z,tara.singh,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T07:54:59Z,liam.oconnor,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T09:52:23Z,frank.castillo,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T13:40:00Z,grace.okafor,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T13:43:05Z,jack.morgan,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T18:20:59Z,sam.takahashi,192.0.2.28,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T21:00:15Z,liam.oconnor,10.0.18.45,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T17:53:18Z,rachel.adams,10.0.14.8,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T07:10:32Z,uma.krishnan,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T18:42:35Z,rachel.adams,10.0.18.45,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T20:47:29Z,frank.castillo,10.0.12.14,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,VPN-Gateway
+2026-11-24T12:33:54Z,peter.nguyen,10.0.12.22,SUCCESS,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T13:45:00Z,quinn.harper,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T13:03:03Z,grace.okafor,10.0.19.102,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T11:21:12Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T18:52:14Z,victor.rossi,192.0.2.15,FAILED,OpenVPN-Client/3.4.2,Corporate-Mail
+2026-11-24T08:11:42Z,peter.nguyen,10.0.14.8,SUCCESS,OpenVPN-Client/3.4.2,Git-Enterprise
+2026-11-24T13:45:20Z,karen.cho,192.0.2.15,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Corporate-Mail
+2026-11-24T13:42:00Z,karen.cho,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T10:33:10Z,wendy.zhao,10.0.12.22,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T11:22:00Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T11:20:48Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T11:13:16Z,henry.lin,10.0.12.22,SUCCESS,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,SSO-Portal
+2026-11-24T21:04:44Z,elena.rostova,10.0.12.14,SUCCESS,OpenVPN-Client/3.4.2,VPN-Gateway
+2026-11-24T09:49:41Z,carol.chen,10.0.12.14,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T07:32:50Z,maya.santos,10.0.12.14,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Git-Enterprise
+2026-11-24T06:46:42Z,henry.lin,10.0.18.45,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,SSO-Portal
+2026-11-24T17:33:47Z,frank.castillo,10.0.18.45,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T11:20:00Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T17:10:30Z,uma.krishnan,198.51.100.194,FAILED,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,Corporate-Mail
+2026-11-24T09:18:40Z,karen.cho,198.51.100.77,FAILED,python-requests/2.31.0,SSO-Portal
+2026-11-24T11:21:24Z,frank.castillo,203.0.113.99,FAILED,curl/8.4.0,Cloud-Console
+2026-11-24T21:54:42Z,david.kim,10.0.14.8,SUCCESS,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0,VPN-Gateway
+2026-11-24T13:40:30Z,henry.lin,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway
+2026-11-24T13:47:08Z,olivia.berg,10.0.19.102,FAILED,Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) Safari/17.5,Git-Enterprise
+2026-11-24T13:41:00Z,iris.patel,203.0.113.45,FAILED,curl/8.4.0,VPN-Gateway

@@ -1,0 +1,106 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --psa-bg-main: #ffffff;
+    --psa-bg-secondary: #f8fafc;
+    --psa-bg-card: #ffffff;
+    --psa-bg-elevated: #f1f5f9;
+    --psa-text-primary: #18181b;
+    --psa-text-secondary: #71717a;
+    --psa-border: #e4e4e7;
+    --psa-accent: #dc2626;
+    --psa-accent-hover: #b91c1c;
+    --psa-accent-soft: rgba(220, 38, 38, 0.08);
+    --psa-success: #16a34a;
+    --psa-warning: #d97706;
+    --psa-error: #dc2626;
+    --psa-chart-grid: #e4e4e7;
+    --psa-chart-tick: #71717a;
+    color-scheme: light;
+  }
+
+  .dark {
+    --psa-bg-main: #090909;
+    --psa-bg-sidebar: #0d0d0d;
+    --psa-bg-secondary: #141111;
+    --psa-bg-card: #181313;
+    --psa-bg-elevated: #211515;
+    --psa-text-primary: #fafafa;
+    --psa-text-secondary: #a1a1aa;
+    --psa-border: #332020;
+    --psa-accent: #ef4444;
+    --psa-accent-hover: #dc2626;
+    --psa-accent-soft: rgba(239, 68, 68, 0.14);
+    --psa-success: #22c55e;
+    --psa-warning: #f59e0b;
+    --psa-error: #ef4444;
+    --psa-chart-grid: #2a1a1a;
+    --psa-chart-tick: #a1a1aa;
+    color-scheme: dark;
+  }
+
+  html,
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: var(--psa-bg-main);
+    color: var(--psa-text-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transition: background-color 180ms ease, color 180ms ease;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-display {
+    font-family: 'Outfit', system-ui, sans-serif;
+    text-wrap: balance;
+  }
+
+  code,
+  pre,
+  .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle SOC red glow strictly for critical alert accents in dark mode */
+.dark .psa-critical-glow {
+  box-shadow: 0 0 24px -6px rgba(239, 68, 68, 0.25);
+}
+
+/* Clean custom scrollbars matching both themes */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(113, 113, 122, 0.28);
+  border-radius: 9999px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(239, 68, 68, 0.25);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

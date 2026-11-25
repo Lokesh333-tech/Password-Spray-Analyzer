@@ -1,0 +1,6 @@
+{
+  "name": "Password Spray Analyzer",
+  "description": "Intelligent Authentication Threat Detection platform powered by Design and Analysis of Algorithms (DAA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
